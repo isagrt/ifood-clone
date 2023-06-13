@@ -8,6 +8,9 @@ import Home from './screens/Home';
 import Busca from './screens/Busca';
 import Perfil from './screens/Perfil';
 import Pedidos from './screens/Pedidos';
+import Perfil from './screens/Perfil';
+import Pagamentos from './screens/Pagamentos';
+
 
 const BottomTab = createBottomTabNavigator();
 
